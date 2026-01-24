@@ -1,7 +1,5 @@
-# Hi, I'm Rounak!
-
 # About Me:
-I'm Rounak Kumar Gupta. I'm currently pursuing Computer Science & Engineering from NIT Durgapur. I love creating new stuff. Learning new technologies & building cool stuff with them is what drives me.
+### I'm Rounak Kumar Gupta. I'm currently pursuing Computer Science & Engineering from NIT Durgapur. I love creating new stuff. Learning new technologies & building cool stuff with them is what drives me.
 
 
 ## Socials:
