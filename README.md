@@ -1,43 +1,14 @@
-# Hi there, I'm Rounak!
+#  About Me:
+I'm Rounak Kumar Gupta. I'm currently pursuing Computer Science & Engineering from NIT Durgapur. I love creating new stuff. Learning new technologies & building cool stuff with them is what drives me.
 
-### Engineering Student | Problem Solver | Tech Enthusiast
 
-I'm a **Computer Science & Engineering** student at **NIT Durgapur**. I thrive on the challenge of learning new tech stacks and turning ideas into functional applications.
+##  Socials:
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/literallyrounak.bsky.social) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/literallyrounak) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/literallyrounak) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/literallyrounak) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kumarguptarounak7@gmail.com) 
 
--  I’m currently working on improving my Development skills.
--  I’m currently learning advanced Data Structures and Algorithms.
--  Ask me about C++, Web Dev, or why I love NIT Durgapur!
+#  Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+#  GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=literallyrounak&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=literallyrounak&theme=catppuccin_mocha&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=literallyrounak&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-
-###  Tech Stack
-
-| Category | Tools & Languages |
-| :--- | :--- |
-| **Languages** | ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) |
-| **Game Dev** | ![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Terminal](https://img.shields.io/badge/-Terminal-4D4D4D?logo=windows-terminal&logoColor=white) |
-
----
-
-###  GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=literallyrounak&show_icons=true&theme=dark" alt="Rounak's Stats" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=literallyrounak&layout=compact&theme=dark" alt="Top Languages" width="45%" />
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=literallyrounak&theme=dark" alt="GitHub Streak" width="91%" />
-</p>
-
----
-
-###  Let's Connect!
-
-<p align="left">
-<a href="https://instagram.com/literallyrounak"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-<a href="https://x.com/literallyrounak"><img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" /></a>
-<a href="mailto:kumarguptarounak7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
