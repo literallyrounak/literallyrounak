@@ -1,79 +1,27 @@
-<p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?duration=6500&amp;color=777777&amp;background=00000000&amp;width=500&amp;height=120&amp;lines=++Hello!+I'm+Rounak+Kumar+Gupta+%F0%9F%8C%BB" alt="Typing SVG"></a>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?duration=6500&amp;color=777777&amp;background=00000000&amp;width=500&amp;height=120&amp;lines=++Nice+to+meet+you+%F0%9F%8C%BB" alt="Typing SVG"></a></p>
-<h1 id="-how-do-you-do-im-sophie-nguyen"><a href="https://github.com/literallyrounak"></a> How do you do? I’m Rounak Kumar Gupta</h1>
-<p>Thank you for visiting my GitHub profile!</p>
-<p>Full Stack Web Development | Data Structures & Algorithms</p>
-<hr>
-<h2 id="-technologies--tools"> Technologies &amp; Tools</h2>
-<h3 id="-languages"><u> Languages: </u></h3>
-<br>
-<p><span><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5 logo" title="HTML5" height="25"></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3 logo" title="CSS3" height="25"></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25"></span>
-&nbsp;
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&amp;logo=python&amp;logoColor=blue" alt="Python logo" title="Python" height="25">
-</span>
-&nbsp;
-<br></p>
-<h3 id="-frontend-development-technologies-and-tools"><u> Frontend Development Technologies and Tools: </u></h3>
-<br>
-<p><span><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25"></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&amp;logo=redux&amp;logoColor=white" alt="Redux logo" title="Redux" height="25"></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&amp;logo=tailwind-css&amp;logoColor=white" alt="TailwindCSS logo" title="TailwindCSS" height="25"></span>
+<h1 align="center">Hi , I'm Rounak Kumar Gupta</h1>
+<h3 align="center">A passionate developer from India.</h3>
 
-<h3 id="-backend-development--database--devops--deployment-technologies--tools"><u> Backend Development &amp; Tools: </u></h3>
-<br>
-<span><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js logo" title="Node.js" height="25"></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&amp;logo=express&amp;logoColor=white" alt="Express.js logo" title="Express.js" height="25"></span>
-&nbsp;
-<span>
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL logo" title="MySQL" height="25">
-</span>
-&nbsp;</span></p>
+- I’m currently working on [Whismur - A chat application](https://github.com/literallyrounak/whismur)
 
-<h3 id="-version-control-and-tools"><u> Version Control and Tools:</u></h3>
-<br>
-<p><span><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="git logo" title="Git" height="25"></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Github logo" title="Github" height="25"></span>
-&nbsp;</p>
-<h3 id="-operating-systems-and-others"><u> Operating Systems and Others:</u></h3>
-<br>
-<span>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" alt="Linux Logo" title="Linux" height="25">
-</span>
-&nbsp;
-<span>
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&amp;logo=fedora&amp;logoColor=white" alt="Fedora Logo" title="Fedora" height="25">
-</span>
-&nbsp;
-<span>
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&amp;logo=windows&amp;logoColor=white" alt="Windows Logo" title="Windows" height="25">
-</span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&amp;logo=visual%20studio%20code&amp;logoColor=white" alt="Visual Studio Code logo" title="Visual Studio Code" height="25"></span>
-<br>
-<br>
-<p><i> Recently, I’m also learning: </i></p>
-<p><span><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="GoLang logo" title="Go" height="25"></span>
-&nbsp;</p>
-<br>
-<hr>
-<h2 id="contact-me">Contact me</h2>
-<br>
-<div align="center">
-  <a href="https://www.linkedin.com/in/literallyrounak/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="rounak-linkedin">
-  </a>
-  <a href="mailto:kumarguptarounak7@gmail.com" target="top" rel="noopener noreferrer">
-  <img src="https://img.icons8.com/bubbles/100/000000/gmail-new.png" alt="rounak-email">
-  </a>
-</div>
-<br>
-<br>
-<hr>
+- I’m currently learning **DSA & MERN stack**
+
+- All of my projects are available at [http://literallyrounak.me](http://literallyrounak.me)
+
+- Ask me about **React, Framer, Express**
+
+- 📫 How to reach me **kumarguptarounak7@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/literallyrounak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="literallyrounak" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rounak-kumar-gupta-009b073a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rounak-kumar-gupta-009b073a4" height="30" width="40" /></a>
+<a href="https://instagram.com/literallyrounak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="literallyrounak" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/silly_panda_67" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="silly_panda_67" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/silly_panda_67" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="silly_panda_67" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/literallyrounak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="literallyrounak" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=literallyrounak&show_icons=true&locale=en&layout=compact" alt="literallyrounak" /></p>
