@@ -9,7 +9,7 @@
 
 - Ask me about **React, Framer, Express**
 
-- 📫 How to reach me **kumarguptarounak7@gmail.com**
+- How to reach me **kumarguptarounak7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
