@@ -14,10 +14,6 @@
 <span><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25"></span>
 &nbsp;
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&amp;logo=python&amp;logoColor=blue" alt="Python logo" title="Python" height="25">
-
-&nbsp;
-<span>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=java&amp;logoColor=white" alt="Java logo" title="Java" height="25">
 </span>
 &nbsp;
 <br></p>
