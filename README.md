@@ -1,6 +1,6 @@
 <p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?duration=6500&amp;color=777777&amp;background=00000000&amp;width=500&amp;height=120&amp;lines=++Hello!+I'm+Rounak+Kumar+Gupta+%F0%9F%8C%BB" alt="Typing SVG"></a>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?duration=6500&amp;color=777777&amp;background=00000000&amp;width=500&amp;height=120&amp;lines=++Nice+to+meet+you+%F0%9F%8C%BB" alt="Typing SVG"></a></p>
-<h1 id="-how-do-you-do-im-sophie-nguyen"><a href="https://github.com/SophieNguyen113"><img src="https://wallpapercave.com/wp/wp10580805.jpg" width="200px" height="200px" alt="Sunflower"></a> How do you do? I’m Rounak Kumar Gupta</h1>
+<h1 id="-how-do-you-do-im-sophie-nguyen"><a href="https://github.com/literallyrounak"></a> How do you do? I’m Rounak Kumar Gupta</h1>
 <p>Thank you for visiting my GitHub profile!</p>
 <p>Full Stack Web Development | Data Structures & Algorithms</p>
 <hr>
