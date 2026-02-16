@@ -9,6 +9,8 @@
 
 - Ask me about **React, Framer, Express**
 
+- I write blogs on [Uncurated](https://uncurated-blog.vercel.app)
+
 - How to reach me **kumarguptarounak7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
