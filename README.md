@@ -5,7 +5,7 @@
 
 - I’m currently learning **DSA & MERN stack**
 
-- All of my projects are available at [http://literallyrounak.me](http://literallyrounak.me)
+- All of my projects are available at [my portfolio](http://literallyrounak.vercel.app)
 
 - Ask me about **React, Framer, Express**
 
