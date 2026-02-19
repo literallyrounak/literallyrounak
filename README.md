@@ -1,17 +1,17 @@
 <h1 align="center">Hi , I'm Rounak Kumar Gupta</h1>
 <h3 align="center">A passionate developer from India.</h3>
 
-- I’m currently working on [Whismur - A chat application](https://github.com/literallyrounak/whismur)
+- I’m currently working on [Whismur - A chat application](https://github.com/literallyrounak/whismur).
 
-- I’m currently learning **DSA & MERN stack**
+- I’m currently learning **DSA & MERN stack**.
 
-- All of my projects are available at [my portfolio](http://literallyrounak.vercel.app)
+- All of my projects are available at [my portfolio](http://literallyrounak.vercel.app).
 
-- Ask me about **React, Framer, Express**
+- Ask me about **React, Framer, Express**.
 
-- I write blogs on [Uncurated](https://uncuratedblog.vercel.app)
+- I write blogs on [Uncurated](https://uncuratedblog.vercel.app).
 
-- How to reach me **kumarguptarounak7@gmail.com**
+- How to reach me **kumarguptarounak7@gmail.com**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
