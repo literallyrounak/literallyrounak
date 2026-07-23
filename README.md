@@ -1,9 +1,9 @@
 <h1 align="center">Hi , I'm Rounak Kumar Gupta</h1>
 <h3 align="center">A passionate developer from India.</h3>
 
-- I’m currently working on [Whismur - A chat application](https://github.com/literallyrounak/whismur).
+- I’m currently working on [GoodFirstFind](https://github.com/literallyrounak/GoodFirstFind).
 
-- I’m currently learning **DSA & MERN stack**.
+- I’m currently learning **DSA & Backend**.
 
 - All of my projects are available at [my portfolio](http://literallyrounak.vercel.app).
 
