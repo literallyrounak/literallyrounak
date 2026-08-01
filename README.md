@@ -1,15 +1,8 @@
-# About Me:
-CS Undergrad passionate about backend systems, Go and full-stack development. Currently focused on backend development, full-stack projects, and writing clean, maintainable software while learning something new every day.
-View Portfolio: [here](https://literallyrounak.vercel.app/)
+Hi, I'm Rounak, a CS undergrad.
 
+Right now, I'm mostly focused on learning Go and exploring backend/systems stuff. Currently building [**raft**](https://github.com/literallyrounak/raft), a P2P file sharing app for the terminal entirely in Go. Before this, I made a CLI todo app to get used to the language syntax, and a few web projects like [**chatot**](https://github.com/literallyrounak/chatot) (a real-time chat app) and [**hoopa**](https://github.com/literallyrounak/hoopa) (a URL shortener) using MERN.
 
-## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/literallyrounak) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/literallyrounak) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kumarguptarounak7@gmail.com) 
-
-# Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=literallyrounak&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=literallyrounak&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=literallyrounak&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
+Feel free to check out my repos or reach out:
+* Portfolio: [here](https://literallyrounak.vercel.app)
+* LinkedIn : [here](https://linkedin.com/in/literallyrounak)
+* Email: [here](kumarguptarounak7@gmail.com)
